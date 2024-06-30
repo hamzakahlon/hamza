@@ -6,3 +6,6 @@ x=a-b
 x=a/b
 #Batra
 batra = a+b+c
+#percentage
+x=%%%
+
